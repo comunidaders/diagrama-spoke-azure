@@ -1,0 +1,1 @@
+# diagrama-spoke-azure
